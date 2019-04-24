@@ -1,0 +1,11 @@
+(Grupo 61)
+Joao Trindade - 80805
+Joao Simao - 81654
+
+1.b) Para formatar os ficheiros .out decidimos utilizar "sed".
+
+1.c) Antes de registarmos os bigramas removemos todos os caracteres especiais do ficheiro .final para ser mais facil processar os dados. Usamos alisamento Add-one uma vez que é a forma mais simples de alisar os dados e removemos os bigramas irrelevantes ao nosso programa (todos aqueles que não continham a palavra a analisar) de forma a poupar tempo de execução e espaço em memória
+
+2) No analisador começamos por tirar os caracteres especiais, tal como fizemos para calcular os unigramas e os bigramas antes, calculamos a probabilidade dos bigramas com a palavra a analisar e escolhemos a probabilidade maior como a opção correta.
+
+3)Tal como dito no enunciado, utilizamos 5 frases para cada palavra que tinhamos de analisar (5 frases para testar "cobrem" e 5 frases para testar "visto"), não usamos frases muito complexas uma vez que o nosso analisador só olha para as palavras ao lado da palavra a analisar para calcular as probabilidades

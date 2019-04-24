@@ -1,0 +1,20 @@
+O lema mais provavel na frase numero 1 e: cobrir.
+Probabilidade do lema cobrar: 1.11806635344e-07.
+Probabilidade do lema cobrir: 1.36523444813e-07
+
+O lema mais provavel na frase numero 2 e: cobrar.
+Probabilidade do lema cobrar: 8.96711802655e-07.
+Probabilidade do lema cobrir: 2.73736401973e-07
+
+O lema mais provavel na frase numero 3 e: cobrir.
+Probabilidade do lema cobrar: 1.48643494335e-07.
+Probabilidade do lema cobrir: 2.45030042044e-06
+
+O lema mais provavel na frase numero 4 e: cobrir.
+Probabilidade do lema cobrar: 1.49277983446e-07.
+Probabilidade do lema cobrir: 1.23037979979e-05
+
+O lema mais provavel na frase numero 5 e: cobrir.
+Probabilidade do lema cobrar: 7.47259835546e-08.
+Probabilidade do lema cobrir: 4.99568933601e-06
+

@@ -1,0 +1,20 @@
+O lema mais provavel na frase numero 1 e: ver.
+Probabilidade do lema ver: 1.25532929128e-06.
+Probabilidade do lema vestir: 0
+
+O lema mais provavel na frase numero 2 e: ver.
+Probabilidade do lema ver: 1.03117163096e-05.
+Probabilidade do lema vestir: 0
+
+O lema mais provavel na frase numero 3 e: ver.
+Probabilidade do lema ver: 7.8125e-05.
+Probabilidade do lema vestir: 0
+
+O lema mais provavel na frase numero 4 e: ver.
+Probabilidade do lema ver: 8.30657508612e-08.
+Probabilidade do lema vestir: 0
+
+O lema mais provavel na frase numero 5 e: ver.
+Probabilidade do lema ver: 6.87447753971e-07.
+Probabilidade do lema vestir: 0
+

@@ -1,0 +1,5 @@
+(Grupo 61)
+Joao Trindade - 80805
+Joao Simao - 81654
+
+O sistema desenvolvido não é o mais fiável uma vez que os corpora utilizados são muito pequenos para este tipo de tarefa e a técnica de alisamento usada (Add-one) não é a que produz melhores resultados. Quanto aos resultados, se analisarmos as frases de teste para a palavra "cobrem" conseguimos ver que acerta em 4/5 das vezes, resultados satisfatórios tendo em conta o tamanho do corpus e o alisamento aplicado. Agora com a palavra "visto" é um caso diferente, no corpus não encontramos nenhuma ocorrência em que visto seja a 1ª pessoa do singular do presente indicativo do verbo vestir, logo o nosso analisador nunca irá devolver essa opção, ou se devolver é uma coincidência. Logo o nosso analisador para a palavra "visto" é inútil uma vez que devolve sempre "ver". Talvez com um corpus significativamente maior e com um alisamento melhor os nossos resultados tivessem sido melhores.
